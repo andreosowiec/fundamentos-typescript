@@ -1,0 +1,22 @@
+{
+  "name": "fundamentos-typescript",
+  "version": "1.0.0",
+  "description": "Este projeto foi desenvolvido com o objetivo de aprender e consolidar os fundamentos da linguagem TypeScript.",
+  "homepage": "https://github.com/andreosowiec/fundamentos-typescript#readme",
+  "bugs": {
+    "url": "https://github.com/andreosowiec/fundamentos-typescript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreosowiec/fundamentos-typescript.git"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}
