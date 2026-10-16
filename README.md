@@ -56,4 +56,16 @@ Adicionar o exclude logo abaixo após a virgula
   ]
 ```
 
+## Como executar o projeto
+
+Compilar os arquivos TypeScript. *obs: utilizar npx tsc-watch para recompilar automaticamente as alterações.
+```
+npx tsc | npx tsc --watch
+```
+
+Executar o arquivo JavaScript compilado.
+```
+node dist/<nome.arquivo> | ex: node dist/index.ts
+```
+
 
