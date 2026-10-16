@@ -9,6 +9,12 @@ Verificar a versão do Node.js: v24.19 ou superior
 node -v
 ```
 
+## Como rodar o projeto baixado
+
+Instalar as dependências indicadas pelo arquivo package.json
+```
+npm install
+```
 ## Sequência para a criação do projeto
 
 Criar o arquivo package.
